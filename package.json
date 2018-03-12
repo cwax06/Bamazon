@@ -1,23 +1,23 @@
 {
-    "name": "bamazon",
-    "version": "1.0.0",
-    "description": "Node app using Mysql to store eCommerce",
-    "main": "customer.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/cwax06/Bamazon.git"
-    },
-    "author": "Andrew",
-    "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/cwax06/bamazon/issues"
-    },
-    "homepage": "https://github.com/cwax06/bamazon#readme",
-    "dependencies": {
-        "inquirer": "^4.0.1",
-        "mysql": "^2.15.0"
-    }
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Node app using Mysql to store eCommerce",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k90armstrong/bamazon.git"
+  },
+  "author": "Kyle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/k90armstrong/bamazon/issues"
+  },
+  "homepage": "https://github.com/k90armstrong/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^4.0.1",
+    "mysql": "^2.15.0"
+  }
 }
